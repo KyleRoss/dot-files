@@ -90,3 +90,4 @@ rules:
   prefer-template: 2
   rest-spread-spacing: 1
   template-curly-spacing: 1
+  require-atomic-updates: 0
